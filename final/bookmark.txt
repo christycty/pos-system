@@ -1,0 +1,8 @@
+customer1
+00003
+00007
+customer2
+00001
+00005
+00002
+dummyUser

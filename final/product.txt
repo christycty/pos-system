@@ -1,0 +1,54 @@
+00001
+Product name 
+Soft drink
+15.00
+34
+0
+00002
+Product name2
+drink
+20.50
+8
+1 25
+00003
+Product 3
+dessert
+12.00
+5
+1 25
+00004
+product4
+typec
+100.00
+0
+1 30
+00005
+product5
+snack
+25.00
+0
+2 3 1
+00006
+product6
+snack
+45.00
+30
+0 
+00007
+product 7
+juice
+7.50
+97
+2 4 2
+00008
+product8
+beverage
+30.50
+15
+1 30
+00009
+product 9
+product
+10.00
+89
+0
